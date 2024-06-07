@@ -75,8 +75,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Creator-Art-Life/React-native-learn-course
-cd React-native-learn-course
+git clone https://github.com/Creator-Art-Life/Mini-Social-App
+cd Mini-Social-App
 ```
 
 **Installation**
